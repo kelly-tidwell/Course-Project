@@ -7,13 +7,6 @@ Requirments
 variable for each activity and each subject.
 
 
-
-
-
-
-
-
-
 # Course-Project
 Getting and Cleaning Data Course Project
 #The source of data for this project is: 
